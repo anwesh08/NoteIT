@@ -1,0 +1,14 @@
+body {
+  background-color: whitesmoke !important;
+  margin: 0;
+  padding: 0;
+}
+
+/*--Navigation Bar--*/
+.navbar a {
+  margin-left: 2.5rem;
+  font-size: 3rem;
+}
+.navbar a span {
+  color: #fb8500;
+}
